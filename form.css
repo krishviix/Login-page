@@ -53,3 +53,18 @@ body{
     background-image: url('bgimg.webp');
 }
 
+@media screen and (max-width: 430px) {
+    #form {
+        margin-left: 10vw;
+        width: 80vw;
+        height: auto;
+    }
+    
+    input {
+        width: 70vw;
+    }
+    
+    #but {
+        width: 80vw;
+    }
+}
