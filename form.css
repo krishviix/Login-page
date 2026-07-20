@@ -1,22 +1,26 @@
 #form{
     margin-left: 36vw;
-    margin-top: 20px;
+    margin-top: 30px;
     text-align: center;
     margin-bottom: 20px;
     border: 1px solid;
     border-radius: 3px;
-    height: 45vh;
+    height: 50vh;
     width: 29vw;
 
 }
 h2{
     margin-right: 2vw;
+    margin-top: 4vh;
+    margin-bottom: 4vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: x-large;
     color: rgb(151, 57, 57);
 }
 p{
     margin-bottom: 2px;
+    margin-top: 2px;
+
 }
 .error{
     font-weight: lighter;
@@ -25,10 +29,11 @@ p{
 }
 input{
     /* margin-bottom: 10px; */
-    height: 20px;
     border: 1px solid;
     border-radius: 3px;
     width: 25vw;
+    height: 5vh;
+    margin-bottom: 10px;
 }
 #but{
     border: 1px solid;
@@ -36,6 +41,7 @@ input{
     height: 6vh;
     color: cadetblue;
     background-color: brown;
-    width: 26vw;
+    width: 29vw;
+    margin-top: 9vh;
 }
 
